@@ -1,0 +1,12 @@
+What is the capital of France?
+Paris
+London
+Rome
+Madrid
+1
+What is the capital of Italy?
+Paris
+Rome
+Madrid
+Athens
+2

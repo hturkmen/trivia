@@ -1,0 +1,6 @@
+What is the capital of France?;Paris,London,Rome,Madrid;0
+What is the capital of Italy?;Paris,Rome,Madrid,Athens;1
+What is the capital of Australia?;Sydney,Canberra,Perth,Melbourne;1
+What is the capital of India?;Mumbai,Bangalore,Jaipur,New Delhi;3
+What is the capital of Niger?;Zinder,Gaya,Niamey,Abalak;2
+What is the capital of Turkey?;Istanbul,Antalya,Ankara,Adana;2
